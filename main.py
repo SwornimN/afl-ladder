@@ -1,3 +1,2 @@
 def teams():
-    print("Hello\n")
-    print("Fake code")
+    print("Swans are the best team")
